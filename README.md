@@ -15,6 +15,6 @@ This project introduces an application demo of Model predict control (MPC) in co
   *Figure2: weak coupling sample*
 </div>
 
-
+<br>  <!-- 这是空行间隔 -->
 # Advance research
 Nonlinear system identification (data-driven, approximate linearazation, etc) \ Acceleration of sparse matrix solution.
