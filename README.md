@@ -2,13 +2,13 @@
 This project introduces an application demo of Model predict control (MPC) in coating process, which involves multivariable and complex couping situation. To emphasize it, two opposite simulation examples are exhibited as follows. The main purpose of simulation task is to eliminate bias of y1 value, it's interesting to see that the x2 is willing to act for this goal, even sacrificing its own bias y2 at the beginning in tight coupling sample. By contrast, these xi act as just being concentrated to their own yi bias in weak coupling sample, thus they act almost independently. 
 
 <div align="center">
-  <img src="images/Experiment.png" alt="TightCouplingResult" style="width: 650px; height: auto;"/>
+  <img src="images/TightCouplingResult.png" alt="TightCouplingResult" style="width: 650px; height: auto;"/>
 
   *Figure1: tight coupling sample*
 </div>
 
 <div align="center">
-  <img src="images/Experiment.png" alt="WeakCouplingResult" style="width: 650px; height: auto;"/>
+  <img src="images/WeakCouplingResult.png" alt="WeakCouplingResult" style="width: 650px; height: auto;"/>
 
   *Figure2: weak coupling sample*
 </div>
