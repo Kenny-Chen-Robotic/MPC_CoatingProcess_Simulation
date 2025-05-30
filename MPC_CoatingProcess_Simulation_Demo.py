@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 27 10:16:44 2025
-
-@author: zugang.chen
-
-Triple order MPC with trajectory plotting
-"""
 
 import pandas as pd
 import math
