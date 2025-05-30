@@ -10,6 +10,8 @@ This project introduces an application demo of Model predict control (MPC) in co
 <div align="center">
   <img src="images/WeakCouplingResult.png" alt="WeakCouplingResult" style="width: 650px; height: auto;"/>
 
+<br>  <!-- 这是空行间隔 -->
+
   *Figure2: weak coupling sample*
 </div>
 
