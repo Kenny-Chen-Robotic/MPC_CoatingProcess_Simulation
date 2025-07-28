@@ -1,7 +1,7 @@
 # Introduction
-This project introduces an application but tutorial demo of Model predict control (MPC) in coating process, which involves multivariable and complex couping situation. To emphasize it, two opposite simulation examples are exhibited as follows. The main purpose of simulation task is to eliminate bias of y1 value, it's interesting to see that the x2 is willing to act for this goal, even sacrificing its own bias y2 at the beginning in tight coupling sample. By contrast, these xi act as just being concentrated to their own yi bias in weak coupling sample, thus they act almost independently. 
+As a tutorial demo, this repository introduces an application of Model Predictive Control (MPC) in industrial process, which involves multivariable and complex parameters couping situation. To illustarte it, two opposite simulation examples are exhibited as follows. The main purpose of the simulation task is to eliminate value bias of y1. It's interesting that in the tight coupling sample the x2 is willing to reach out for this goal at the beginning, even sacrificing its own bias which is y2. On the contrary, in the weak coupling sample these x_i act individually, only devote to their own y_i bias. 
 
-The penalty term of terminal state is not yet exhibited, which can be extended simply by adding terms behind of cost function according your specific control demand.
+The formation, items and coefficients of the cost function influcence the simulation result directly. The penalty term of terminal state is excluded here, which can be extended simply by adding terms according to your specific control demand.
 
 <br>  <!-- 这是空行间隔 -->
 
